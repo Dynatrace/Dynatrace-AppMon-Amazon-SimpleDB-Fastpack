@@ -168,7 +168,7 @@ The Amazon Simple DB - Write Performance Dashboard for monitoring the performanc
 <div class="section-2" id="65732764_AmazonSimpleDBFastpack-Installation" >
 <h2>Installation</h2>
 <p>
-Just download and import the FastPack on your dynaTrace Server (see <a href="https://apmcommunity.compuware.com/display/DOCDT40/Plugin+Management">Plugin Management</a>) </p>
+Just download and import the FastPack on your dynaTrace Server (see <a href="https://community.compuwareapm.com/community/display/DOCDT99/Plugins">Plugin Management</a>) </p>
 </div>
 </div>
 </div>
