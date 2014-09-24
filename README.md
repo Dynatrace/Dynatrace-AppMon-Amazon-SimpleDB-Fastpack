@@ -19,7 +19,6 @@
 <div class="block">
 <div class="toc column span-6 prepend-top">
 <h3>Table of Contents
-<span class="small">(<a href="Amazon_SimpleDB_Fastpack.html">Start</a>)</span>
 </h3>
 <ul class="toc">
 </ul>
