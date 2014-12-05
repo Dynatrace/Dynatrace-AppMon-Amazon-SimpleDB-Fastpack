@@ -1,12 +1,3 @@
-<head>
-
-<link type="text/css" rel="stylesheet" href="css/blueprint/liquid.css" media="screen, projection"/>
-<link type="text/css" rel="stylesheet" href="css/blueprint/print.css" media="print"/>
-<!--[if lt IE 8]><link rel="stylesheet" href="css/blueprint/ie.css" type="text/css" media="screen, projection"/><![endif]-->
-<link type="text/css" rel="stylesheet" href="css/content-style.css" media="screen, projection, print"/>
-<link type="text/css" rel="stylesheet" href="css/screen.css" media="screen, projection"/>
-<link type="text/css" rel="stylesheet" href="css/print.css" media="print"/>
-</head>
 <body>
 <h1>Amazon SimpleDB Fastpack</h1>
 <div class="section-2" id="65732764_AmazonSimpleDBFastpack-Overview" >
@@ -75,7 +66,7 @@ License </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<a href="attachments_5275722_2_dynaTraceBSD.txt">dynaTrace BSD</a> </p>
+<a href="dynaTraceBSD.txt">dynaTrace BSD</a> </p>
 </td>
 </tr>
 <tr>
@@ -85,7 +76,7 @@ Support </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<a href="https://community/display/DL/Support+Levels#SupportLevels-Community">Not Supported </a> </p>
+<a href="https://community.compuwareapm.com/community/display/DL/Support+Levels#SupportLevels-Community">Not Supported </a> </p>
 </td>
 </tr>
 <tr>
@@ -95,7 +86,7 @@ FastPack Contents </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<a href="attachments_174752128_1_dynaTrace_AmazonSimpleDB_FastPack.dtp">Fastpack Download</a> contains: </p>
+<a href="dynaTrace_AmazonSimpleDB_FastPack.dtp">Fastpack Download</a> contains: </p>
 <ul class=" "><li class=" "> <p>
 Amazon Simple DB - Read Performance Dashboard </p>
 </li><li class=" "> <p>
