@@ -16,9 +16,9 @@ Profile and Dashboards.
 | Version | 1.0.0
 | dynaTrace Version | 4.0
 | Author | dynaTrace - Klaus Enzenhofer
-| License | [dynaTrace BSD](dynaTraceBSD.txt)
+| License | [dynaTrace BSD](https://raw.githubusercontent.com/dynaTrace/Dynatrace-Amazon-SimpleDB-Fastpack/master/dynaTraceBSD.txt/dynaTraceBSD.txt)
 | Support | [Not Supported ](https://community.compuwareapm.com/community/display/DL/Support+Levels#SupportLevels-Community)
-| FastPack Contents | [Fastpack Download](dynaTrace_AmazonSimpleDB_FastPack.dtp) contains:  
+| FastPack Contents | [Fastpack Download](https://raw.githubusercontent.com/dynaTrace/Dynatrace-Amazon-SimpleDB-Fastpack/master/dynaTraceBSD.txt/dynaTrace_AmazonSimpleDB_FastPack.dtp) contains:  
 | | * Amazon Simple DB - Read Performance Dashboard  
 | | * Amazon Simple DB - Write Performance Dashboard 
 | | * Sample System Profile 
