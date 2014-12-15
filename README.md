@@ -4,7 +4,7 @@
 
 ### Amazon SimpleDB
 
-![images_community/download/attachments/65732764/icon.png](images_community/download/attachments/65732764/icon.png)
+![https://raw.githubusercontent.com/dynaTrace/Dynatrace-Amazon-SimpleDB-Fastpack/master/images_community/download/attachments/65732764/icon.png](https://raw.githubusercontent.com/dynaTrace/Dynatrace-Amazon-SimpleDB-Fastpack/master/images_community/download/attachments/65732764/icon.png)
 
 The dynaTrace FastPack for Amazon SimpleDB enables easy out-of-the-box monitoring of read and write performance of the Amazon SimpleDB usage via Java. The FastPack consists of a Sensor Pack, a Sample
 Profile and Dashboards.
