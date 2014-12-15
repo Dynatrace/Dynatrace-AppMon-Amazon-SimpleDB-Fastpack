@@ -26,7 +26,7 @@ Profile and Dashboards.
 
 ## Amazon Simple DB - Read Performance Dashboard
 
-![images_community/download/attachments/65732764/Amazon_SimpleDB_Read_Performance.png](images_community/download/attachments/65732764/Amazon_SimpleDB_Read_Performance.png)
+![https://raw.githubusercontent.com/dynaTrace/Dynatrace-Amazon-SimpleDB-Fastpack/master/images_community/download/attachments/65732764/Amazon_SimpleDB_Read_Performance.png](https://raw.githubusercontent.com/dynaTrace/Dynatrace-Amazon-SimpleDB-Fastpack/master/images_community/download/attachments/65732764/Amazon_SimpleDB_Read_Performance.png)
 
 The Amazon Simple DB - Read Performance Dashboard enables you to monitor the read performance of your SimpleDB. It shows you
 
@@ -38,7 +38,7 @@ The Amazon Simple DB - Read Performance Dashboard enables you to monitor the rea
 
 ## Amazon Simple DB - Write Performance Dashboard
 
-![images_community/download/attachments/65732764/Amazon_SimpleDB_Write_Performance.png](images_community/download/attachments/65732764/Amazon_SimpleDB_Write_Performance.png)
+![https://raw.githubusercontent.com/dynaTrace/Dynatrace-Amazon-SimpleDB-Fastpack/master/images_community/download/attachments/65732764/Amazon_SimpleDB_Write_Performance.png](https://raw.githubusercontent.com/dynaTrace/Dynatrace-Amazon-SimpleDB-Fastpack/master/images_community/download/attachments/65732764/Amazon_SimpleDB_Write_Performance.png)
 
 The Amazon Simple DB - Write Performance Dashboard enables you to easily monitor the write performance of your SimpleDB. It shows you
 
