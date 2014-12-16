@@ -11,12 +11,11 @@ Profile and Dashboards.
 
 ## Fast Pack Details
 
-| Name | Amazon SimpleDB FastPack
+| Name and Version | Amazon SimpleDB FastPack 1.0.0
 | :--- | :---
-| Version | 1.0.0
-| dynaTrace Version | 4.0
 | Author | dynaTrace - Klaus Enzenhofer
-| License | [dynaTrace BSD](https://raw.githubusercontent.com/dynaTrace/Dynatrace-Amazon-SimpleDB-Fastpack/master/dynaTraceBSD.txt)
+| Supported dynaTrace Versions | >= 5.5
+| License | [dynaTrace BSD](https://community.compuwareapm.com/community/download/attachments/5144912/dynaTraceBSD.txt?version=2&modificationDate=1365400216030&api=v2)
 | Support | [Not Supported ](https://community.compuwareapm.com/community/display/DL/Support+Levels#SupportLevels-Community)
 | FastPack Contents | [Fastpack Download](https://raw.githubusercontent.com/dynaTrace/Dynatrace-Amazon-SimpleDB-Fastpack/master/dynaTrace_AmazonSimpleDB_FastPack.dtp) contains:  
 | | * Amazon Simple DB - Read Performance Dashboard  
