@@ -1,5 +1,3 @@
-# Amazon SimpleDB Fastpack
-
 ## Overview
 
 ### Amazon SimpleDB
