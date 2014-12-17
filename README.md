@@ -35,7 +35,7 @@ The Amazon Simple DB - Read Performance Dashboard enables you to monitor the rea
 
 ## Amazon Simple DB - Write Performance Dashboard
 
-![Amazon_SimpleDB_Write_Performance.png](Amazon_SimpleDB_Write_Performance.png)
+![Amazon_SimpleDB_Write_Performance.png](images_community/download/attachments/65732764/Amazon_SimpleDB_Write_Performance.png)
 
 The Amazon Simple DB - Write Performance Dashboard enables you to easily monitor the write performance of your SimpleDB. It shows you
 
