@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: java Knowledge Sensor
+Bundle-SymbolicName: com.dynatrace.sensor_pack.Amazon_SimpleDB;singleton:=true
+Bundle-Version: 4.1.0.2881
+Bundle-Vendor: dynaTrace Diagnostics
+Require-Bundle: com.dynatrace.diagnostics.sdk
